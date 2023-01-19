@@ -20,6 +20,13 @@ public class gitTest {
         
         
         System.out.println ("远程库拉取测试");
+
+
+        System.out.println ("上传测试2");
+
+
+
+
         
         
 
