@@ -12,13 +12,11 @@ public class gitTest {
 
         System.out.println ("test - commit");
 
-
-
         System.out.println ("push - commit");
         System.out.println ("pull - commit");
-      
 
 
+        System.out.println ("上传测试");
 
 
     }
