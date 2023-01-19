@@ -15,6 +15,7 @@ public class gitTest {
 
 
         System.out.println ("push - commit");
+        System.out.println ("pull - commit");
 
 
     }
