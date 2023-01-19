@@ -10,6 +10,8 @@ public class gitTest {
         System.out.println ("git7");
 
 
+        System.out.println ("test - commit");
+
 
     }
 }
